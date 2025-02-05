@@ -1,2 +1,1 @@
-# Pixeltech-CO
-PROJETO EMPRESA DE SEGURANÇA
+# PixeltechCO
